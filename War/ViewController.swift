@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  WarCardGame
+//  War
 //
-//  Created by Mohamed Canaria on 8/10/19.
-//  Copyright © 2019 MohamedCanaria. All rights reserved.
+//  Created by Mohamed Mostafa Fawzi on 8/10/19.
+//  Copyright © 2019 MohamedMostafaFawzi. All rights reserved.
 //
 
 import UIKit
