@@ -92,7 +92,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1030;
 				LastUpgradeCheck = 1030;
-				ORGANIZATIONNAME = MohamedCanaria;
+				ORGANIZATIONNAME = "Mohamed Mostafa Fawzi";
 				TargetAttributes = {
 					60996ACF22FF10F5009E740E = {
 						CreatedOnToolsVersion = 10.3;
@@ -289,7 +289,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.MohamedCanaria.War;
+				PRODUCT_BUNDLE_IDENTIFIER = com.MohamedMostafaFawzi.War;
 				PRODUCT_NAME = War;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -307,7 +307,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.MohamedCanaria.War;
+				PRODUCT_BUNDLE_IDENTIFIER = com.MohamedMostafaFawzi.War;
 				PRODUCT_NAME = War;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
