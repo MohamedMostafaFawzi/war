@@ -12,8 +12,8 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var leftviewimage: UIImageView!
     @IBOutlet weak var rightviewimage: UIImageView!
-    @IBOutlet weak var playerscore: UILabel!
-    @IBOutlet weak var cpuscore: UILabel!
+    @IBOutlet weak var playeronescore: UILabel!
+    @IBOutlet weak var playertwoscore: UILabel!
     
     var leftscore = 0
     var rightscore = 0
@@ -38,7 +38,7 @@ class ViewController: UIViewController {
             
            // left wins
              leftscore += 1
-            playerscore.text = String(leftscore)
+            playeronescore.text = String(leftscore)
             
         }
         
@@ -46,7 +46,7 @@ class ViewController: UIViewController {
             
             // right wins
             rightscore += 1
-            cpuscore.text = String(rightscore)
+            playertwoscore.text = String(rightscore)
             
         }
         
